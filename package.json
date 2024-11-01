@@ -1,0 +1,11 @@
+{
+  "name": "binary-url-to-buffer",
+  "version": "1.0.0",
+  "description": "Convert a binary url to a buffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Taufiq",
+  "license": "ISC"
+}
