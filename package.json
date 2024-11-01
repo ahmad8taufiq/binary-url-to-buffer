@@ -1,6 +1,6 @@
 {
   "name": "binary-url-to-buffer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a binary url to a buffer",
   "main": "index.js",
   "scripts": {
