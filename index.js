@@ -1,3 +1,5 @@
+const axios = require("axios");
+
 const urlToBuffer = async (url) => {
   const getUrl = await axios({
     method: "get",
