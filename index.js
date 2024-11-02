@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const urlToBuffer = async (url) => {
+const binaryUrltoBuffer = async (url) => {
   const getUrl = await axios({
     method: "get",
     url,
@@ -12,4 +12,4 @@ const urlToBuffer = async (url) => {
   return buffer;
 };
 
-module.exports = urlToBuffer;
+module.exports = binaryUrltoBuffer;
